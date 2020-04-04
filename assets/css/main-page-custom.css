@@ -11,4 +11,8 @@
  #main-page {
      z-index: 100 !important;
      background-color: transparent;
+     /* box-shadow: none; */
+     width: 80vw !important;
+     max-width: 100vw;
+     margin-bottom: 100px;
  }
