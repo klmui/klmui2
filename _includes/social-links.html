@@ -27,17 +27,17 @@
                         {% if site.hackernews %}<a class="social-btn" href="https://news.ycombinator.com/user?id={{ site.hackernews }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-hacker-news"></i></a>{% endif %}
                   </h3> -->
 
-                  <ul>
+                  <ul class="socials">
                     {% if site.github-url %}
-                    <li><a class="fa fa-2x fa-github" target="_blank" href="https://github.com/{{ site.github-url }}"><span class="description">GitHub</span></a></li>
+                    <li><a class="fa fa-2x fa-github" target="_blank" href="https://github.com/{{ site.github-url }}"><span class="description"></span></a></li>
                     {% endif %}
 
                     {% if site.linkedin %}
-                    <li><a class="fa fa-2x fa-linkedin" target="_blank" href="https://linkedin.com/in/{{ site.linkedin }}"><span class="description">LinkedIn</span></a></li>
+                    <li><a class="fa fa-2x fa-linkedin" target="_blank" href="https://linkedin.com/in/{{ site.linkedin }}"><span class="description"></span></a></li>
                     {% endif %}
 
 
                     {% if site.email %}
-                    <li><a class="fa fa-2x fa-envelope" target="_blank" href="mailto:{{ site.email }}"><span class="description">Email</span></a></li>
+                    <li><a class="fa fa-2x fa-envelope" target="_blank" href="mailto:{{ site.email }}"><span class="description"></span></a></li>
                     {% endif %}
                 </ul>

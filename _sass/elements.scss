@@ -82,6 +82,29 @@
     }
 }
 
+// Social buttons
+.socials {
+    display: flex;
+    justify-content: space-around;
+    > li {
+        border-radius: 100%;
+        border: 2px solid white;
+        margin: 8px;
+        display: inline-block;
+        list-style: none;
+        width: 65px;
+        height: 65px;
+        > a {
+            &:hover {
+                color: $red;
+            }
+            color: white;
+            text-decoration: none;
+            padding-top: 13px;
+        }
+    }
+}
+
 // hr break
 hr {
 	border: 0;
