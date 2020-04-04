@@ -15,14 +15,21 @@
 // titles
 .title {
 	text-align: center;
-	font-weight: bold;
+    font-weight: bold;
+    letter-spacing: 0.1em;
+    font-family: 'Open Sans';
+    > a {
+        color: white !important;
+        text-decoration: none;
+        font-size: 2em !important;
+        margin-top: 50px !important;
+    }
 	> p {
+        color: white !important;
+        font-size: 1em;
 		text-align: center;
-		font-weight: bold;
-	}
-	> a > p {
-		text-align: center;
-		font-weight: bold;
+        font-weight: bold;
+        font-style: italic;
 	}
 }
 .post-title {
