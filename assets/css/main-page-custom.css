@@ -15,35 +15,6 @@ body {
      }
 }
 
-.color-overlay {
-     position: absolute;
-     top: 0;
-     left: 0;
-     background-color: rgba(0, 0, 0, 0.5);
-     width: 100%;
-     height: 100%;
-     z-index: -1;
- }
-
- #main-page {
-     z-index: 100 !important;
-     background-color: transparent;
-     /* box-shadow: none; */
-     width: 60vw !important;
-     max-width: 100vw;
-     margin-bottom: 70px;
-    box-shadow: none;
- }
-
- .sections {
-    text-align: center;
-    font-weight: bold;
-    letter-spacing: 0.1em;
-    font-family: 'Open Sans';
-    display: flex;
-
- }
-
  /* For silver text animation */
  .text-animation {
     background: linear-gradient(90deg, #000, #fff, #000);
@@ -65,12 +36,3 @@ body {
 
 /* End of animation */
 
-#site-title {
-    margin-top: 50px;
-    letter-spacing: 0.5em;
-}
-
-#site-bio {
-    font-size: 18px;
-    letter-spacing: 0.08em;
-}
