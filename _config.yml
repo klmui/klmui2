@@ -9,7 +9,7 @@ navlogo:            'assets/img/Kenny.png'
 background:         'assets/img/background.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                
+url:                https://klmui.com/
 
 # Jekyll
 permalink:          /:title/
