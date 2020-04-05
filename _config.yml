@@ -1,10 +1,11 @@
 # Site
 title:              Kenneth (Kenny) Mui
 bio:                CS Sophomore at UW-Madison | Incoming Web Dev Intern @ FHG | Leader
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+description:        Hi there! Feel free to email me if you want to talk. I will try to respond within 24 hours :)
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/me.jpg'
+navlogo:            'assets/img/Kenny.png'
 background:         'assets/img/background.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
