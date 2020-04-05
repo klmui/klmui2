@@ -31,7 +31,7 @@ body {
      /* box-shadow: none; */
      width: 60vw !important;
      max-width: 100vw;
-     margin-bottom: 80px;
+     margin-bottom: 70px;
     box-shadow: none;
  }
 
@@ -60,6 +60,17 @@ body {
     }
     100% {
       background-position: 500%;
+    }
+ }
+
+/* End of animation */
+
+#site-title {
+    margin-top: 50px;
+    letter-spacing: 0.5em;
 }
 
- /* End of animation */
+#site-bio {
+    font-size: 18px;
+    letter-spacing: 0.08em;
+}

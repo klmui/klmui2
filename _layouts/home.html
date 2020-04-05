@@ -19,28 +19,28 @@ layout: compress
                     <a href="{{ site.url }}">
                         <img src="{{ site.logo }}" class="img-circle zoombtn animated rotateIn">
                     </a>
-                    <h1 class="title text-animation">
+                    <h1 class="title text-animation" id="site-title">
                         <a class="zoombtn" href="{{ site.url }}">
                         	{{ site.title }}
 			            </a>
                     </h1>
                     <hr class="hr-line">
-                    <h3 class="title">
-                        <p>{{ site.bio }}</p>
+                    <h3 class="title" id="site-bio">
+                        <p>CS Sophomore at UW-Madison  <span style="color:navy; font-size:22px;">|</span>  Incoming Web Dev Intern @ FHG  <span style="color:navy; font-size:22px;">|</span>   Leader</p>
                     </h3>
                     {% include social-links.html %}
                   <hr class="hr-line">
                   <h3 class="sections">
-                         <a class="btn zoobtn" target="_blank" href="https://drive.google.com/file/d/1wrIWhQ2lVmfdQfkTnEqgGPr3mpo7COkr/view?usp=sharing">
+                         <a style="border-left: 5px solid red" class="btn zoobtn" target="_blank" href="https://drive.google.com/file/d/1wrIWhQ2lVmfdQfkTnEqgGPr3mpo7COkr/view?usp=sharing">
                          Resume
                          </a>
-                         <a class="btn zoombtn" href="{{ site.url }}/about">
+                         <a style="border-left: 5px solid blue" class="btn zoombtn" href="{{ site.url }}/about">
                          About
                          </a>
-                         <a class="btn zoombtn" href="{{ site.url }}/posts">
+                         <a style="border-left: 5px solid green" class="btn zoombtn" href="{{ site.url }}/posts">
                          Posts
                          </a>
-                         <a class="btn zoombtn" href="{{ site.url }}/projects">
+                         <a style="border-left: 5px solid orangered" class="btn zoombtn" href="{{ site.url }}/projects">
                          Projects
                          </a>
                  </h3>
