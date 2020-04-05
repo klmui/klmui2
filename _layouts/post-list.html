@@ -21,19 +21,114 @@ layout: compress
                         <i class="fa fa-home"></i>
                     </a>
                 </div>
-                <div class="post-list">
-                    {% for post in site.posts %} 
+
+                <select class="custom-select my-1 mr-sm-4" id="inlineFormCustomSelectPref" onchange="sort()">
+                    <option value="All">All</option>
+                    <option value="Motivational">Motivational</option>
+                    <option value="Educational">Educational</option>
+                    <option value="Comedy">Comedy</option>
+                    <option value="Random/Other">Random/Other</option>
+                </select>
+
+                <div class="post-list" id="post-list">
+
+                    <!-- All -->
+                    <template class="templatePosts">
+                    {% for post in site.posts %}
                         {% if post.project == null %}
-                    <ul>
+                    <ul class="article-main-page">
                         <li class="wow fadeInLeft" data-wow-duration="1.5s">
                             <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+                            <div class="date" style="font-style: italic;">
+                                Written on {{ post.date | date: "%B %e, %Y" }}
+                            </div>
+                            Category: {{ post.tags[0] }}
                             <p>{{ post.excerpt }}</p>
                             <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read More</a>
                         </li>
                     </ul>
                         {% endif %}
                     {% endfor %}
+                    </template>
+
+                    <!-- Educational -->
+                    <template class="templatePosts">
+                    {% for post in site.posts %}
+                        {% if post.project == null and post.tags[0] == "Educational" %}
+                    <ul class="article-main-page">
+                        <li class="wow fadeInLeft" data-wow-duration="1.5s">
+                            <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+                            <div class="date" style="font-style: italic;">
+                                Written on {{ post.date | date: "%B %e, %Y" }}
+                            </div>
+                            Category: {{ post.tags[0] }}
+                            <p>{{ post.excerpt }}</p>
+                            <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read More</a>
+                        </li>
+                    </ul>
+                        {% endif %}
+                    {% endfor %}
+                    </template>
+
+                    <!-- Motivational -->
+                    <template class="templatePosts">
+                    {% for post in site.posts %}
+                        {% if post.project == null and post.tags[0] == "Motivational" %}
+                    <ul class="article-main-page">
+                        <li class="wow fadeInLeft" data-wow-duration="1.5s">
+                            <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+                            <div class="date" style="font-style: italic;">
+                                Written on {{ post.date | date: "%B %e, %Y" }}
+                            </div>
+                            Category: {{ post.tags[0] }}
+                            <p>{{ post.excerpt }}</p>
+                            <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read More</a>
+                        </li>
+                    </ul>
+                        {% endif %}
+                    {% endfor %}
+                    </template>
+
+                    <!-- Comedy -->
+                    <template class="templatePosts">
+                    {% for post in site.posts %}
+                        {% if post.project == null and post.tags[0] == "Comedy" %}
+                    <ul class="article-main-page">
+                        <li class="wow fadeInLeft" data-wow-duration="1.5s">
+                            <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+                            <div class="date" style="font-style: italic;">
+                                Written on {{ post.date | date: "%B %e, %Y" }}
+                            </div>
+                            Category: {{ post.tags[0] }}
+                            <p>{{ post.excerpt }}</p>
+                            <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read More</a>
+                        </li>
+                    </ul>
+                        {% endif %}
+                    {% endfor %}
+                    </template>
+
+                    <!-- Random/Other -->
+                    <template class="templatePosts">
+                    {% for post in site.posts %}
+                        {% if post.project == null and post.tags[0] == "Random/Other" %}
+                    <ul class="article-main-page">
+                        <li class="wow fadeInLeft" data-wow-duration="1.5s">
+                            <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+                            <div class="date" style="font-style: italic;">
+                                Written on {{ post.date | date: "%B %e, %Y" }}
+                            </div>
+                            Category: {{ post.tags[0] }}
+                            <p>{{ post.excerpt }}</p>
+                            <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read More</a>
+                        </li>
+                    </ul>
+                        {% endif %}
+                    {% endfor %}
+                    </template>
+
                 </div>
+
             </div>
         </div>
     </header>
@@ -42,3 +137,72 @@ layout: compress
     <script type="text/javascript">(new WOW).init();</script>
 </body>
 </html>
+
+<script>
+    var posts = document.getElementById('post-list');
+    var temp = document.getElementsByTagName("template")[0];
+    var clon = temp.content.cloneNode(true);
+    console.log(clon);
+    posts.appendChild(clon);
+
+    function sort() {
+      var selectValue = document.getElementById('inlineFormCustomSelectPref').value;
+      switch (selectValue) {
+        case "All":
+          console.log("case " + selectValue);
+          Array.from(document.getElementsByClassName("article-main-page")).forEach(
+            function(post) {
+              post.remove();
+            }
+          );
+          var temp = document.getElementsByTagName("template")[0];
+          var clon = temp.content.cloneNode(true);
+          posts.appendChild(clon);
+          break;
+        case "Educational":
+          console.log("case " + selectValue);
+          var temp = document.getElementsByTagName("template")[1];
+          var clon = temp.content.cloneNode(true);
+          Array.from(document.getElementsByClassName("article-main-page")).forEach(
+            function(post) {
+              post.remove();
+            }
+          );
+          posts.appendChild(clon);
+          break;
+        case "Motivational":
+          console.log("case " + selectValue);
+          Array.from(document.getElementsByClassName("article-main-page")).forEach(
+            function(post) {
+              post.remove();
+            }
+          );
+          var temp = document.getElementsByTagName("template")[2];
+          var clon = temp.content.cloneNode(true);
+          posts.appendChild(clon);
+          break;
+        case "Comedy":
+          console.log("case " + selectValue);
+          Array.from(document.getElementsByClassName("article-main-page")).forEach(
+            function(post) {
+              post.remove();
+            }
+          );
+          var temp = document.getElementsByTagName("template")[3];
+          var clon = temp.content.cloneNode(true);
+          posts.appendChild(clon);
+          break;
+        case "Random/Other":
+          console.log("case " + selectValue);
+          Array.from(document.getElementsByClassName("article-main-page")).forEach(
+            function(post) {
+              post.remove();
+            }
+          );
+          var temp = document.getElementsByTagName("template")[4];
+          var clon = temp.content.cloneNode(true);
+          posts.appendChild(clon);
+          break;
+      }
+    }
+</script>
