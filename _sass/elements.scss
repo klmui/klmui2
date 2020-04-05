@@ -86,6 +86,9 @@
 .socials {
     display: flex;
     justify-content: space-around;
+    @media #{$small} {
+		justify-content: flex-start;
+	}
     > li {
         border-radius: 100%;
         border: 2px solid white;
