@@ -45,7 +45,7 @@ body {
  }
 
  /* For silver text animation */
- .responsive-headline {
+ .text-animation {
     background: linear-gradient(90deg, #000, #fff, #000);
     background-repeat: no-repeat;
     background-size: 80%;
@@ -54,19 +54,12 @@ body {
     -webkit-text-fill-color: rgba(255, 255, 255, 0);
  }
 
- @-webkit-keyframes fadeIn {
-    0% {opacity: 0;}
-    100% {opacity: 1;}
- }
-
- @keyframes fadeIn {
-    0% {opacity: 0;}
-    100% {opacity: 1;}
- }
-
- .fadeIn {
-    -webkit-animation-name: fadeIn;
-    animation-name: fadeIn;
- }
+ @keyframes animate {
+    0% {
+      background-position: -500%;
+    }
+    100% {
+      background-position: 500%;
+}
 
  /* End of animation */
