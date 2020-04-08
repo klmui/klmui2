@@ -49,7 +49,7 @@ My passion for software development sparked after I competed in a hackathon for 
     <tr>
       <td style="text-align: center">Java</td>
       <td style="text-align: center">Ionic</td>
-      <td style="text-align: center"></td>
+      <td style="text-align: center">Firebase</td>
     </tr>
     <tr>
       <td style="text-align: center">Python</td>
@@ -67,13 +67,13 @@ My passion for software development sparked after I competed in a hackathon for 
       <td style="text-align: center"></td>
     </tr>
     <tr>
-      <td style="text-align: center"></td>
+      <td style="text-align: center">C</td>
       <td style="text-align: center">Unity</td>
       <td style="text-align: center"></td>
     </tr>
     <tr>
       <td style="text-align: center"></td>
-      <td style="text-align: center">Heroku</td>
+      <td style="text-align: center">Heroku + Netlify</td>
       <td style="text-align: center"></td>
     </tr>
     <tr>
