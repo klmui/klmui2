@@ -26,8 +26,9 @@ My passion for software development sparked after I competed in a hackathon for 
   <thead>
     <tr>
       <th style="text-align: center"><strong>Languages</strong></th>
-      <th style="text-align: center"><strong>Frameworks/Platforms</strong></th>
+      <th style="text-align: center"><strong>Frameworks/Libraries</strong></th>
       <th style="text-align: center"><strong>Databases</strong></th>
+      <th style="text-align: center"><strong>Other</strong></th>
     </tr>
   </thead>
   <tbody>
@@ -35,50 +36,54 @@ My passion for software development sparked after I competed in a hackathon for 
       <td style="text-align: center">HTML</td>
       <td style="text-align: center">Bootstrap</td>
       <td style="text-align: center">MongoDB</td>
+      <td style="text-align: center">Git</td>
     </tr>
     <tr>
       <td style="text-align: center">CSS</td>
       <td style="text-align: center">Node.js</td>
       <td style="text-align: center">MySQL</td>
+      <td style="text-align: center">Android Studio</td>
     </tr>
     <tr>
       <td style="text-align: center">JavaScript</td>
       <td style="text-align: center">Angular</td>
       <td style="text-align: center">SQLite</td>
+      <td style="text-align: center">Heroku</td>
     </tr>
     <tr>
       <td style="text-align: center">Java</td>
       <td style="text-align: center">Ionic</td>
       <td style="text-align: center">Firebase</td>
+      <td style="text-align: center">Netlify</td>
     </tr>
     <tr>
       <td style="text-align: center">Python</td>
       <td style="text-align: center">Symfony</td>
+      <td style="text-align: center"></td>
       <td style="text-align: center"></td>
     </tr>
     <tr>
       <td style="text-align: center">PHP</td>
       <td style="text-align: center">JavaFX</td>
       <td style="text-align: center"></td>
+      <td style="text-align: center"></td>
     </tr>
     <tr>
       <td style="text-align: center">C#</td>
-      <td style="text-align: center">Android Studio</td>
+      <td style="text-align: center">jQuery</td>
+      <td style="text-align: center"></td>
       <td style="text-align: center"></td>
     </tr>
     <tr>
       <td style="text-align: center">C</td>
       <td style="text-align: center">Unity</td>
       <td style="text-align: center"></td>
-    </tr>
-    <tr>
-      <td style="text-align: center"></td>
-      <td style="text-align: center">Heroku + Netlify</td>
       <td style="text-align: center"></td>
     </tr>
     <tr>
       <td style="text-align: center"></td>
-      <td style="text-align: center">jQuery</td>
+      <td style="text-align: center">React</td>
+      <td style="text-align: center"></td>
       <td style="text-align: center"></td>
     </tr>
   </tbody>
