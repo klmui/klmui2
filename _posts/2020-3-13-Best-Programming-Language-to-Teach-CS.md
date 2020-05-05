@@ -4,7 +4,7 @@ title: Best Programming Language and IDE to Teach CS
 date: 2020-3-13
 comments: true
 excerpt: 'Which programming language(s) should universities teach, and which integrated development environment (IDE) should they use?'
-tags: [Education]
+tags: [Educational]
 ---
 
 Which programming language(s) should universities teach, and which integrated development environment (IDE) should they use? At most universities, this is an ongoing debate. Currently, UW-Madison teaches its students Java in three introductory courses and encourages the use of Eclipse as an IDE. With languages like Python, JavaScript, and C++, it can be challenging to choose the right programming language to teach students. I believe that Java is still the best programming language to teach students while using Eclipse as an IDE. 
