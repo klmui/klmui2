@@ -8,7 +8,7 @@ comments: false
 
 ### Introduction
 
-Hi there! My name is Kenny and I am currently a sophomore at The Univeristy of Wisconsin-Madison. My hobbies include late-night coding sessions with friends, watching movies/shows, going out to eat, and running! If you want to work on any projects together, feel free to shoot me an email! I will try to respond within 24 hours :)
+Hi there! My name is Kenny and I am currently a sophomore at The Univeristy of Wisconsin-Madison majoring in CS with certificates in both leadership and entrepreneurship. My hobbies include late-night coding sessions with friends, watching movies/shows, going out to eat, and running! If you want to work on any projects together, feel free to shoot me an email! I will try to respond within 24 hours :)
 
 ### More About Me
 

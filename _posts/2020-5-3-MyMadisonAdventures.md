@@ -11,6 +11,8 @@ Hey everyone! Around The World is my Spring Break project. This web application 
 
 I made this application with my friend Harry over the course of a week. It was definitely challenging, and I hope to log my challenges as well as how I made this app in the "projects" tab of my website. I am also looking forward to using a website called DevPost.com to log all of my projects. 
 
+[Link to the website](https://around-the-world-1.herokuapp.com/)
+
 I have a lot of upcoming features for this application. If you want to contribute, please feel free to email me at klmui@wisc.edu.
 
 <img src="../assets/img/atw/Screenshot1.Png" alt="Picture 1" style="width:550px; height=500px;"/>
