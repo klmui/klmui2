@@ -86,6 +86,12 @@ My passion for software development sparked after I competed in a hackathon for 
       <td style="text-align: center"></td>
       <td style="text-align: center"></td>
     </tr>
+    <tr>
+      <td style="text-align: center"></td>
+      <td style="text-align: center">Vue</td>
+      <td style="text-align: center"></td>
+      <td style="text-align: center"></td>
+    </tr>
   </tbody>
 </table> 
 
