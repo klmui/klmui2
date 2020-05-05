@@ -4,7 +4,7 @@ title: Looking Ahead
 date: 2020-5-5
 comments: true
 excerpt: 'Random update about summer plans if anyone is interested... As a CS major, the summer before junior year is one of the most critical summers. Some hope to build their resumes by doing side projects, practice hundreds of LeetCode problems, or gain experience at an internship.'
-tags: [Random/Other]
+tags: [Motivational]
 ---
 
 As a CS major, the summer before junior year is one of the most important summers. Some hope to build their resumes by doing side projects, practice hundreds of LeetCode problems, or gain experience at an internship.
