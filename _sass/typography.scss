@@ -1,12 +1,12 @@
 // content area
 .content {
-	@include font-size(16);
+	@include font-size(18);
 	padding: 0 2rem;
 	-moz-osx-font-smoothing: grayscale;
 	-webkit-font-smoothing: antialiased !important;
 	-moz-font-smoothing: antialiased !important;
 	text-rendering: optimizelegibility !important;
-	text-align: justify;
+	// text-align: justify;
 	@media #{$small} {
 		padding: 0 .5em;
 	}

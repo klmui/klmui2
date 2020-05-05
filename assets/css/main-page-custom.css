@@ -1,7 +1,7 @@
 body {
     font-family: Helvetica,Arial,sans-serif;
     color: #333;
-    font-weight: 400;
+    font-weight: 500;
     background-color: rgba(0, 0, 0, 0.9);
     animation: fadeInAnimation ease 3s;
     animation-iteration-count: 1;
