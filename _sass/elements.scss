@@ -147,8 +147,21 @@ img {
 	border-radius: 50%;
 	border: 3px solid $white;
 	height: 200px;
-	width: 200px;
+    width: 200px;
+    @media #{$small} {
+		border-radius: 50%;
+        border: 3px solid $white;
+        height: 150px;
+        width: 150px;
+	}
 }
+
+.row {
+    @media #{$small} {
+        margin-top: 0;
+    }
+}
+
 .author-photo {
     background-color: $white;
     border-radius: 50%;
