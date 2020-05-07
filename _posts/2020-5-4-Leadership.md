@@ -16,7 +16,7 @@ By the time I earned leadership roles in various programming projects inside and
  **1. Supply resources and help your teammates get started**
  I remember when I was tasked with learning the Ionic Framework, Git/GitHub, TypeScript, Angular, HTML, etc. I was in my very first programming course at the time, and I had to learn all of these technologies outside of class because of a side project. In the end, I did not learn these technologies very well. Nobody else understood these technologies, and most of the time wasn't even spent on learning them at our meetings. It was mostly just brainstorming. As a result, when I became a leader for a project in one of the organizations I am part of, I decided to supply each member with the same resources I used to learn HTML, CSS, JS, Bootstrap, Node.js, and MongoDB. There was one issue: people were not watching the videos and could not contribute to the project. Therefore, I began hosting workshops to go over the material in the videos to help them get started. 
  
- **2. Realize when your micromanaging**
+ **2. Realize when you're micromanaging**
 Nobody likes to be watched over, especially if you are confident in yourself. Sometimes it can be difficult to get people to contribute to side projects and class projects since it's not a job. Always have a backup plan if a deadline can't be reached or someone does not do their assigned task. Make sure the person clearly knows what they have to do and when it should be done, but don't overstep your boundaries. Offer to help if someone if they are stuck instead of putting even more pressure on them.
 
  **3. Be clear about the team's goals and current tasks**
