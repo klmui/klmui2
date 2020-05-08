@@ -20,8 +20,11 @@
     > a {
         color: white !important;
         text-decoration: none;
-        font-size: 2em !important;
         padding-bottom: 10px;
+        font-size: 3rem;
+        @media #{$small} {
+            font-size: 0.5rem !important;
+        }
     }
 	> p {
         color: white !important;

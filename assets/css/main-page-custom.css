@@ -38,3 +38,11 @@ body {
 
 /* End of animation */
 
+.secondPage {
+    width: 100wh;
+}
+
+header {
+    height: 100vh;
+    width: 100vh;
+}
