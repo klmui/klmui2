@@ -5,6 +5,8 @@ date: 2020-2-29
 comments: true
 excerpt: 'My journey studying CS'
 tags: [Motivational]
+project: false
+course: false
 ---
 
 ## Early Childhood

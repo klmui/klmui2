@@ -5,6 +5,8 @@ date: 2020-3-17
 comments: true
 excerpt: 'Your Coding Break is a short post where I share funny content related (or not) to CS. I hope you find it entertaining!'
 tags: [Comedy]
+project: false
+course: false
 ---
 
 ## Your Coding Break is a short post where I share funny content related (or not) to CS. I hope you find it entertaining!

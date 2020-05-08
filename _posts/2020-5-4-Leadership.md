@@ -5,6 +5,8 @@ date: 2020-5-4
 comments: true
 excerpt: 'Do you find it difficult to manage your team?'
 tags: [Educational]
+project: false
+course: false
 ---
 
 Do you find it challenging to manage your team? If so, I do too. 

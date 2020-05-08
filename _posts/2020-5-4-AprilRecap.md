@@ -5,6 +5,8 @@ date: 2020-5-4
 comments: true
 excerpt: 'From winning two awards to seeing the effects of COVID-19, this month was crazy to say the least...'
 tags: [Educational]
+project: false
+course: false
 ---
 
 
@@ -13,7 +15,8 @@ tags: [Educational]
 Thanks [John Mak](https://www.linkedin.com/in/makpls) for promoting the fantastic work that Coding for Good is doing! I am so proud to be part of an organization that is passionate about using their skills to benefit local communities!  
 [https://lnkd.in/eQkraev](https://lnkd.in/eQkraev)  
   
-I am also proud to announce that my Badger Volunteers team won the Badger Volunteers Team Award! As much as I love to code and give back to my community through coding, I think that it is important for me to get out of the university bubble to interact with people of different backgrounds. More importantly, I am happy to be able to win $250 for Madison West High School. When I was tutoring there, I found that they could use more resources to help people who were learning English. I hope I was able to make a difference there!
+I am also proud to announce that my Badger Volunteers team won the Badger Volunteers Team Award! As much as I love to code and give back to my community through coding, I think that it is important for me to get out of the university bubble to interact with people of different backgrounds. More importantly, I am happy to be able to win $250 for Madison West High School. When I was tutoring there, I found that they could use more resources to help people who were learning English. 
+My biggest challenge was teaching basic English and very simple math to students who understood very little English. I hope I was able to make a difference there!
   
 Lastly, I believe that if you want to create change in your community, you are probably privileged in some way to give back.  
 

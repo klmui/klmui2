@@ -5,6 +5,8 @@ date: 2020-5-4
 comments: true
 excerpt: 'Check out my Spring Break project'
 tags: [Random/Other]
+project: false
+course: false
 ---
 
 Hey everyone! Around The World is my Spring Break project. This web application is for anyone who wants to track their memories with their friends. Start a new "collection," invite your friends to your "collection," and start logging your experiences! If you're feeling adventurous, start exploring collections today.

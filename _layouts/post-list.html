@@ -36,7 +36,7 @@ layout: compress
                     <!-- All -->
                     <template class="templatePosts">
                     {% for post in site.posts %}
-                        {% if post.project == null %}
+                        {% if post.project == false and post.course == false %}
                     <ul class="article-main-page">
                         <li class="wow fadeInLeft" data-wow-duration="1.5s">
                             <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>

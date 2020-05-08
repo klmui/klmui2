@@ -5,6 +5,8 @@ date: 2020-4-11
 comments: true
 excerpt: 'Generics can be a tricky topic. Watch this video in preparation for your CS 300 midterm!'
 tags: [Educational]
+project: false
+course: false
 ---
 
 <h3>Generics can be a tricky topic. Watch this video in preparation for your CS 300 midterm!</h3>

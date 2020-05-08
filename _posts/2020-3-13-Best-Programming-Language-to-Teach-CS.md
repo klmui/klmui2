@@ -5,6 +5,8 @@ date: 2020-3-13
 comments: true
 excerpt: 'Which programming language(s) should universities teach, and which integrated development environment (IDE) should they use?'
 tags: [Educational]
+project: false
+course: false
 ---
 
 <h3>Which programming language(s) should universities teach, and which integrated development environment (IDE) should they use?</h3>

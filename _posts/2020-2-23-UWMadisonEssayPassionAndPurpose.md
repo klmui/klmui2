@@ -5,6 +5,8 @@ date: 2020-2-23
 comments: true
 excerpt: 'My cross country and track journey is best described through my application essay for UW-Madison. I hope this inspires you!'
 tags: [Motivational]
+project: false
+course: false
 ---
 
 My cross country and track journey is best described through my application essay for UW-Madison. I hope this inspires you!

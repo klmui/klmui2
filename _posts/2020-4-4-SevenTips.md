@@ -5,6 +5,8 @@ date: 2020-4-4
 comments: true
 excerpt: 'Hello world, I am a second-year CS student at UW-Madison. I hope these tips help you secure your first internship in CS, and have more fun studying CS!'
 tags: [Educational]
+project: false
+course: false
 ---
 
 Hello world, I am a second-year CS student at UW-Madison. I just wanted to share the tips I have learned from 2.5 years of programming and my first semester as a tutor for the first three intro CS courses at UW-Madison. It isn't much experience, but I hope these tips help you secure your first internship in CS, and have more fun studying CS! And if this doesn't help you, this is an excellent reflection of things I have learned.
