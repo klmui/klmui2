@@ -99,13 +99,15 @@ body {
     font-family: 'Open Sans';
     display: flex;
     @media #{$small} {
+        flex-wrap: wrap-reverse;
+        justify-content: start;
+        display: flex;
         > a {
+            align-content: center;
             justify-content: space-between;
-            margin: 0 10px;
-            width: 70px;
-            margin-right: 8px;
+            // width: 80px;
+            // margin-right: 10px;
             font-size: 8px;
-            text-align: center;
         }
     }
  }

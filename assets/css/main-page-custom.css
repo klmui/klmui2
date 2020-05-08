@@ -38,3 +38,11 @@ body {
 
 /* End of animation */
 
+.secondPage {
+    text-align: center;
+    margin-top: 80px;
+}
+
+.secondPageHeader {
+    margin-bottom: 80px;
+}
