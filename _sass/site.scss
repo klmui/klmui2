@@ -110,7 +110,12 @@ body {
             font-size: 8px;
         }
     }
- }
+}
+
+svg {
+    width: 100wh;
+    height: 100vh;
+}
 
 .flex {
 	display: -webkit-box;
