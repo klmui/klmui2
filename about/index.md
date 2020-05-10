@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: About Me 🧑🏻‍💻
 tags: [about]
 date: 2020-04-4
 comments: false
@@ -8,7 +8,7 @@ comments: false
 
 ### Introduction
 
-Hi there! My name is Kenny and I am currently a sophomore at The Univeristy of Wisconsin-Madison majoring in CS with certificates in both leadership and entrepreneurship. My hobbies include late-night coding sessions with friends, watching movies/shows, going out to eat, and running! If you want to work on any projects together, feel free to shoot me an email! I will try to respond within 24 hours :)
+Hi there! My name is Kenny and I am currently a sophomore at The Univeristy of Wisconsin-Madison majoring in CS with certificates in both leadership and entrepreneurship. My hobbies include late-night coding sessions with friends, giving back to my community, running, and traveling! If you want to work on any projects together, feel free to shoot me an email! I will try to respond within 24 hours :)
 
 ### More About Me
 
@@ -33,31 +33,31 @@ My passion for software development sparked after I competed in a hackathon for 
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: center">HTML</td>
+      <td style="text-align: center">Java</td>
       <td style="text-align: center">Bootstrap</td>
       <td style="text-align: center">MongoDB</td>
       <td style="text-align: center">Git</td>
     </tr>
     <tr>
-      <td style="text-align: center">CSS</td>
+      <td style="text-align: center">Python</td>
       <td style="text-align: center">Node.js</td>
       <td style="text-align: center">MySQL</td>
       <td style="text-align: center">Android Studio</td>
     </tr>
     <tr>
-      <td style="text-align: center">JavaScript</td>
+      <td style="text-align: center">HTML</td>
       <td style="text-align: center">Angular</td>
       <td style="text-align: center">SQLite</td>
       <td style="text-align: center">Heroku</td>
     </tr>
     <tr>
-      <td style="text-align: center">Java</td>
+      <td style="text-align: center">CSS</td>
       <td style="text-align: center">Ionic</td>
       <td style="text-align: center">Firebase</td>
       <td style="text-align: center">Netlify</td>
     </tr>
     <tr>
-      <td style="text-align: center">Python</td>
+      <td style="text-align: center">Javascript</td>
       <td style="text-align: center">Symfony</td>
       <td style="text-align: center"></td>
       <td style="text-align: center"></td>
