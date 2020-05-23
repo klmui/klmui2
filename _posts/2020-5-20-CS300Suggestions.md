@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Online CS 300 Ideas
+title: Online CS 300 Suggestions
 date: 2020-5-20
 comments: true
 excerpt: Recently, my professor asked me to come up with ideas for his online CS 300 class as part of an assignment. Here are my responses.
