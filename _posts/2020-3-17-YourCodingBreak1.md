@@ -14,7 +14,7 @@ course: false
 - Let me know if this represents your company right now! Please stay safe and take COVID-19 seriously!
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/vT3GUKuAzIs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </br>
+<br>
 - <iframe width="560" height="315" src="https://www.youtube.com/embed/pKO9UjSeLew" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <hr>
