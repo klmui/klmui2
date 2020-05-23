@@ -24,7 +24,7 @@ At this point, some things are kind of up in the air due to COVID-19. However, I
 
 > **5. Help out with an actual entrepreneur's software and help launch it**
 
-> **6. Possibly assist a professor or graduate student with mobile devlopment**
+> **6. Assist a graduate student with VR development**
 
 <h3>Other summer plans and goals</h3>
 This may seem like a lot due to an internship as well as summer courses, but I don't think I will have anything to do for the first few weeks after the end of my finals. As much of a workaholic as I may seem, I hope to go to Devil's Lake in Wisconsin as well as a road trip to California with my friends. As someone who loves to code, I believe that it essential to take some time off and go on adventures with friends/family. However, with the current situation, this may not be possible.

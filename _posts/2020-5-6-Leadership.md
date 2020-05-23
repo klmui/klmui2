@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Project Leadership
-date: 2020-5-4
+date: 2020-5-6
 comments: true
 excerpt: 'Do you find it difficult to manage your team?'
 tags: [Educational]

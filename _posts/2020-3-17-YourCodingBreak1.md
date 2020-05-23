@@ -13,8 +13,9 @@ course: false
 
 - Let me know if this represents your company right now! Please stay safe and take COVID-19 seriously!
 
-  [how coronavirus affects programmers in big tech companies](https://www.youtube.com/watch?v=vT3GUKuAzIs) 
-- [If Programming Was An Anime](https://www.youtube.com/watch?v=pKO9UjSeLew&t=99s)
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/vT3GUKuAzIs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </br>
+- <iframe width="560" height="315" src="https://www.youtube.com/embed/pKO9UjSeLew" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <hr>
 
