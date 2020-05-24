@@ -10,7 +10,7 @@ course: false
 ---
 
 ## Early Childhood
-Growing up in Wisconsin, there wasn't too much to do. So, I was obsessed with pushing the boundaries of my technologies (Wii, iPod touch) and video games such as Minecraft. 
+Growing up in Wisconsin, there wasn't too much to do. So, I was obsessed with pushing the boundaries of my technologies (Wii, DS, iPod Touch) and video games such as Minecraft. 
 
 ## High School
 I was very sociable and thought I might enjoy the field of healthcare. After my junior year, I enrolled in a program called Medical Mentoring and shadowed family doctors and nurses. At the same time, the president of Microsoft came back to his alma mater (my high school) and talked to students that were interested in CS! One of my classmates even convinced the president of Microsoft to sponsor a hackathon! I was so excited but nervous at the same time because I didn't trust myself to create a practical application within a limited time frame. However, my brother, who is a few years older than I am always had amazing times at hackathons. This prompted me to enroll in my first CS course (AP CSP). I was surprised that only 25 out of the 1600 students at my school were interested in CS. The class consisted of around 16 students, which made it feel like a small community. We talked about the Internet of Things, low-level CS concepts, and then programming in Python! I was amazed by the fact that I could use Python to automate essential tasks such as automating a drone to go from point A to point B while avoiding obstacles!
