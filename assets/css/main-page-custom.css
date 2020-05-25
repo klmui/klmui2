@@ -6,6 +6,15 @@ body {
     animation: fadeInAnimation ease 3s;
     animation-iteration-count: 1;
     animation-fill-mode: forwards;
+
+    background:
+    linear-gradient(
+        rgba(0, 0, 0, 0.5),
+        rgba(0, 0, 0, 0.5)
+    ),
+    /* bottom, image */
+    fixed
+    url('../img/background.jpg') !important;
 }
 
 @keyframes fadeInAnimation {
@@ -52,6 +61,7 @@ header {
     border-left: 5px solid red;
     background: none;
     color: white;
+    margin-top: 0;
 }
 
 #resumeBtn:hover {
@@ -64,6 +74,7 @@ header {
     border-left: 5px solid blue;
     background: none;
     color: white;
+    margin-top: 0;
 }
 
 #aboutBtn:hover {
@@ -76,6 +87,7 @@ header {
     border-left: 5px solid orangered;
     background: none;
     color: white;
+    margin-top: 0;
 }
 
 #projectsBtn:hover {
@@ -88,6 +100,7 @@ header {
     border-left: 5px solid green;
     background: none;
     color: white;
+    margin-top: 0;
 }
 
 #postsBtn:hover {
@@ -100,6 +113,7 @@ header {
     border-left: 5px solid gold;
     background: none;
     color: white;
+    margin-top: 0;
 }
 
 #courseReviewsBtn:hover {
@@ -108,4 +122,27 @@ header {
     transition: color .4s, background .4s;
 }
 
+#site-bio {
+    margin: 0;
+}
 
+#inbetweenSectionsAndSocials {
+    border-right: 1px solid white;
+    width: 50%;
+    height: 40px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+#inbetweenLogoAndTitle {
+    border-right: 1px solid white;
+    width: 50%;
+    height: 40px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.titleAndBio {
+    margin: 0;
+    border-top: 1px solid white;
+}
