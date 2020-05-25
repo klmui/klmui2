@@ -13,42 +13,43 @@ layout: compress
     {% include nav.html %}
     <!-- Header -->
     <header class="header flex" role="banner">
-        <div class="color-overlay"></div>
         <div class="container animated fadeIn" id="main-page">
             <div class="row">
                     <a href="{{ site.url }}">
                         <img src="{{ site.logo }}" class="img-circle zoombtn animated rotateIn">
                     </a>
-                    <h1 class="title text-animation" id="site-title">
-                        <a class="zoombtn" href="{{ site.url }}">
-                        	{{ site.title }}
-			            </a>
-                    </h1>
-                    <hr class="hr-line">
-                    <h3 class="title" id="site-bio">
-                        <p>CS Junior at UW-Madison  <span style="color:navy; font-size:22px;">|</span>  Incoming Web Dev Intern  <span style="color:navy; font-size:22px;">|</span>   Leader</p>
-                    </h3>
+                    <div id="inbetweenLogoAndTitle"></div>
+                    <div class="titleAndBio">
+                        <h1 class="title text-animation" id="site-title">
+                            <a class="zoombtn" href="{{ site.url }}">
+                                {{ site.title }}
+                            </a>
+                        </h1>
+                        <h3 class="title" id="site-bio">
+                            <p>CS Junior at UW-Madison  <span style="color:navy; font-size:22px;">|</span>  Incoming Web Dev Intern  <span style="color:navy; font-size:22px;">|</span>   Leader</p>
+                        </h3>
+                    </div>
                     {% include social-links.html %}
-                  <hr class="hr-line">
             </div>
+            <div id="inbetweenSectionsAndSocials"></div>
             <div class="sections">
                 <!-- <a style="border-left: 5px solid red" class="btn zoobtn" target="_blank" href="https://drive.google.com/file/d/1wrIWhQ2lVmfdQfkTnEqgGPr3mpo7COkr/view?usp=sharing">
                 Resume 📝
                 </a> -->
-                <a style="border-left: 5px solid red" class="btn zoobtn" href="{{ site.url }}/resume">
+                <a id="resumeBtn" class="btn zoobtn" href="{{ site.url }}/resume">
                     Resume 📝
                 </a>
-                <a style="border-left: 5px solid blue" class="btn zoombtn" href="{{ site.url }}/about">
+                <a id="aboutBtn" class="btn zoombtn" href="{{ site.url }}/about">
                     About 🧑🏻‍💻
                 </a>
-                <a style="border-left: 5px solid orangered" class="btn zoombtn" href="{{ site.url }}/projects">
-                    Projects 💻
+                <a id="projectsBtn" class="btn zoombtn" href="{{ site.url }}/projects">
+                    Projects (1) 💻
                 </a>
-                <a style="border-left: 5px solid green" class="btn zoombtn" href="{{ site.url }}/posts">
-                    Posts 💭
+                <a id="postsBtn" class="btn zoombtn" href="{{ site.url }}/posts">
+                    Posts (16) 💭
                 </a>
-                <a style="border-left: 5px solid gold" class="btn zoombtn" href="{{ site.url }}/courses">
-                    Course Reviews 📚
+                <a id="courseReviewsBtn" class="btn zoombtn" href="{{ site.url }}/courses">
+                    Course Reviews (1) 📚
                 </a>
             </div>
         </div>

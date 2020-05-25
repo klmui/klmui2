@@ -7,6 +7,7 @@ excerpt: 'My journey studying CS'
 tags: [Motivational]
 project: false
 course: false
+
 ---
 
 ## Early Childhood
