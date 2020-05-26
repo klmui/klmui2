@@ -3,7 +3,7 @@ layout: post
 title: Best Programming Language and IDE to Teach CS
 date: 2020-3-13
 comments: true
-excerpt: 'Which programming language(s) should universities teach, and which integrated development environment (IDE) should they use?'
+excerpt: 'Which programming language(s) should universities teach? Which integrated development environment (IDE) should they use?'
 tags: [Educational]
 project: false
 course: false
