@@ -41,3 +41,15 @@ Game development is tough to say the least. To make it even worse, his subscribe
 
 <blockquote class="reddit-card" data-card-created="1590468231"><a href="https://www.reddit.com/r/ProgrammerHumor/comments/gnjc69/listen_to_the_queen/">Listen to the queen</a> from <a href="http://www.reddit.com/r/ProgrammerHumor">r/ProgrammerHumor</a></blockquote>
 <script async src="//embed.redditmedia.com/widgets/platform.js" charset="UTF-8"></script>
+
+<h3>So your're not into funny videos or memes? Here are some great videos about hacking!</h3>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7U-RbOKanYs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ciNHn38EyRc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1S0aBV-Waeo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
