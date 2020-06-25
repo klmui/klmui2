@@ -19,7 +19,7 @@ My passion for software development sparked after I competed in a hackathon for 
 <style>
 .tablelines table, .tablelines td, .tablelines th {
         border: 1px solid black;
-        }
+}
 </style>
 
 <div style="overflow-x:auto">
@@ -107,6 +107,7 @@ My passion for software development sparked after I competed in a hackathon for 
 - CS 252 (Introduction to Computer Engineering)
 - CS 502 (Computer Science Education)
 - CS 402 (Service Learning CS Education)
+- CS 564 (Database Management Systems and Implementation)
  
 ### Contact me
 
