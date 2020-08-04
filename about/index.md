@@ -1,11 +1,20 @@
+---
+layout: page
+title: About Me 🧑🏻‍💻
+tags: [about]
+date: 2020-04-4
+comments: false
+---
+
 # Welcome to my website!
 
 - It includes my resume, technologies I use, my background, projects, course reviews, and blog posts! I hope you like
 it!
 - To run it locally, run the command 'bundle exec jekyll serve'.
 
-### Introduction
 ---
+
+### Introduction
 
 Hi there 👋! My name is Kenny and I am currently a junior at The Univeristy of Wisconsin-Madison majoring in CS with
 certificates in both leadership and entrepreneurship. My intentions also include earning a degree in data science
@@ -26,8 +35,9 @@ to my community, running, and traveling! I love to meet new people, so feel free
 [klmui@wisc.edu](mailto:klmui@wisc.edu)
 
 
-### More About Me
 ---
+
+### More About Me
 
 My passion for software development sparked after I competed in a hackathon for high school students. I believe my
 desire to learn and push the boundaries helped my team earn a top spot. Since then, my mission has been to explore the
@@ -35,8 +45,9 @@ ways computer science and software development can be applied to various project
 continue to expand my knowledge in CS, I am excited by the limitless possibilities for innovation. Currently, my top
 skills are in web development, Java, JavaScript, and Python.
 
-### Coding Technologies I am Proficient in
 ---
+
+### Coding Technologies I am Proficient in
 
 <style>
 .tablelines table, .tablelines td, .tablelines th {
@@ -101,8 +112,10 @@ skills are in web development, Java, JavaScript, and Python.
     </table>
 </div>
 
-### Coding Technologies I am Familiar with
 ---
+
+### Coding Technologies I am Familiar with
+
 <div style="overflow-x:auto">
     <table class="tablelines">
         <thead>
@@ -153,8 +166,10 @@ skills are in web development, Java, JavaScript, and Python.
     </table>
 </div>
 
-### CS Courses I Have Taken/Taking at UW-Madison
 ---
+
+### CS Courses I Have Taken/Taking at UW-Madison
+
 - CS 400 (Data Structures + Advanced Java)
 - CS 577 (Introduction to Algorithms)
 - CS 564 (Database Management Systems and Implementation)
