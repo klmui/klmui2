@@ -3,7 +3,7 @@ layout: post
 title: How Did I End Up Here?
 date: 2020-2-29
 comments: true
-excerpt: 'My journey studying CS'
+excerpt: 'My journey studying CS up to '
 tags: [Motivational]
 project: false
 course: false
@@ -35,5 +35,5 @@ After a stressful semester, I was excited to take a break from school and spend 
 Fast-forward to the spring semester (present), and I am currently taking four CS courses again, tutoring at the Computer Science Learning Center (CSLC), and leading Explore Madison. One of my priorities this semester is learning the Unity Framework along with Android Studio since I convinced my group in CS 407 to work on a VR project! Leading Explore Madison has been a positive experience because I am mostly leading workshops on technologies like Node.js and Git, as well as mentoring others throughout tasks. Tutoring in the CSLC has also been extremely beneficial for me because it is teaching me to look at other people's code, figure out what is going on, and help the student go down the right path. Algorithms is currently my toughest class, but it is teaching me to think carefully when designing algorithms. I have also started the entrepreneurship certificate because I want to be entrepreneurially-minded. One of the best parts of this semester was landing a web development internship! I just needed a company to take a chance on me, and I couldn't be happier with the company that did. The company even aligns with my values since they are helping healthcare institutions implement value-based care! I also think everyone there loves Star Wars, which is a huge plus! Looking back, I am incredibly proud of the fact that I stuck with CS and found my true passion. In other words, be patient and continue to do what you see yourself doing 50 years from now.
 
 **Post-semester update:** Despite the circumstances of this semester due to COVID-19, this was the most success semester of my college career. Managing to get a 4.0 GPA this semester and being able to continuously develop my passion for web/mobile development during my spare time was not easy by any means. 
-Now that I have had more time to think about future semesters, I am planning to do honors CS, and get certificates in entrepreneurship, leadership, and math. Also, my plan is to study abroad
+Now that I have had more time to think about future semesters, I am planning to get a BS in both computer science and data science. Also, my plan is to study abroad
 in Singapore at the National University of Singapore next Spring! I hope to achieve goals that I never thought I could achieve in future semesters! 

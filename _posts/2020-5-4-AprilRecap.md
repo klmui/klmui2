@@ -1,6 +1,6 @@
 ---
 layout: post
-title: April Recap
+title: April 2020 Recap
 date: 2020-5-4
 comments: true
 excerpt: 'From winning two awards to seeing the effects of COVID-19, this month was crazy to say the least...'
