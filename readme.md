@@ -97,7 +97,6 @@ skills are in web development, Java, JavaScript, and Python.
     </table>
 </div>
 
----
 
 ### Coding Technologies I am Familiar with
 
