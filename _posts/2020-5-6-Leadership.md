@@ -3,13 +3,13 @@ layout: post
 title: Project Leadership
 date: 2020-5-6
 comments: true
-excerpt: 'Do you find it difficult to manage your team?'
+excerpt: 'Do you find it difficult to lead your team? This is no easy task for me, so I wanted to share some of my lessons.'
 tags: [Educational]
 project: false
 course: false
 ---
 
-Do you find it challenging to manage your team? If so, I do too. 
+Do you find it challenging to lead and a manage a team? If so, I do too. 
 
 During my sophomore year of college, I decided to lead various projects and even volunteering teams. I was honestly fed up at times due to poor leadership. As a result, I decided to be a leader who truly cares about everyone's success as well as the project's success. 
 
