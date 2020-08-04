@@ -38,14 +38,14 @@ layout: compress
                     {% for post in site.posts %}
                         {% if post.project == false and post.course == false %}
                     <ul class="article-main-page">
-                        <li class="wow fadeInLeft" data-wow-duration="1.5s">
+                        <li class="wow fadeInLeft postLi" data-wow-duration="1.5s">
                             <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
                             <div class="date" style="font-style: italic;">
                                 Written on {{ post.date | date: "%B %e, %Y" }}
                             </div>
                             Category: {{ post.tags[0] }}
                             <p>{{ post.excerpt }}</p>
-                            <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read More</a>
+                            <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn readMoreBtn">Read More</a>
                         </li>
                     </ul>
                         {% endif %}
@@ -57,14 +57,14 @@ layout: compress
                     {% for post in site.posts %}
                         {% if post.project == false and post.tags[0] == "Educational" %}
                     <ul class="article-main-page">
-                        <li class="wow fadeInLeft" data-wow-duration="1.5s">
+                        <li class="wow fadeInLeft postLi" data-wow-duration="1.5s">
                             <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
                             <div class="date" style="font-style: italic;">
                                 Written on {{ post.date | date: "%B %e, %Y" }}
                             </div>
                             Category: {{ post.tags[0] }}
                             <p>{{ post.excerpt }}</p>
-                            <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read More</a>
+                            <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn readMoreBtn">Read More</a>
                         </li>
                     </ul>
                         {% endif %}
@@ -76,14 +76,14 @@ layout: compress
                     {% for post in site.posts %}
                         {% if post.project == false and post.tags[0] == "Motivational" %}
                     <ul class="article-main-page">
-                        <li class="wow fadeInLeft" data-wow-duration="1.5s">
+                        <li class="wow fadeInLeft postLi" data-wow-duration="1.5s">
                             <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
                             <div class="date" style="font-style: italic;">
                                 Written on {{ post.date | date: "%B %e, %Y" }}
                             </div>
                             Category: {{ post.tags[0] }}
                             <p>{{ post.excerpt }}</p>
-                            <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read More</a>
+                            <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn readMoreBtn">Read More</a>
                         </li>
                     </ul>
                         {% endif %}
@@ -95,14 +95,14 @@ layout: compress
                     {% for post in site.posts %}
                         {% if post.project == false and post.tags[0] == "Comedy" %}
                     <ul class="article-main-page">
-                        <li class="wow fadeInLeft" data-wow-duration="1.5s">
+                        <li class="wow fadeInLeft postLi" data-wow-duration="1.5s">
                             <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
                             <div class="date" style="font-style: italic;">
                                 Written on {{ post.date | date: "%B %e, %Y" }}
                             </div>
                             Category: {{ post.tags[0] }}
                             <p>{{ post.excerpt }}</p>
-                            <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read More</a>
+                            <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn readMoreBtn">Read More</a>
                         </li>
                     </ul>
                         {% endif %}
@@ -114,14 +114,14 @@ layout: compress
                     {% for post in site.posts %}
                         {% if post.project == false and post.tags[0] == "Random/Other" %}
                     <ul class="article-main-page">
-                        <li class="wow fadeInLeft" data-wow-duration="1.5s">
+                        <li class="wow fadeInLeft postLi" data-wow-duration="1.5s">
                             <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
                             <div class="date" style="font-style: italic;">
                                 Written on {{ post.date | date: "%B %e, %Y" }}
                             </div>
                             Category: {{ post.tags[0] }}
                             <p>{{ post.excerpt }}</p>
-                            <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read More</a>
+                            <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn readMoreBtn">Read More</a>
                         </li>
                     </ul>
                         {% endif %}

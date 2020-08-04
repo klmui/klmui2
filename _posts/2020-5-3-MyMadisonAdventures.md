@@ -3,7 +3,7 @@ layout: post
 title: Stuck Planning Your Next Vacation?
 date: 2020-5-4
 comments: true
-excerpt: 'Check out my Spring Break project'
+excerpt: 'Check out my Spring Break project!'
 tags: [Random/Other]
 project: false
 course: false

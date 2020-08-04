@@ -3,7 +3,7 @@ layout: post
 title: How Did I End Up Here?
 date: 2020-2-29
 comments: true
-excerpt: 'My journey studying CS up to '
+excerpt: 'This is my journey studying CS through sophomore year.'
 tags: [Motivational]
 project: false
 course: false

@@ -81,6 +81,9 @@
         @include font-rem(14);
     }
 }
+.readMoreBtn {
+    border-radius: 12px;
+}
 
 // Social buttons
 .socials {
@@ -251,4 +254,14 @@ kbd {
     text-align: center;
     font-weight: 300;
     margin-bottom: 10px;
+}
+
+// Post list
+.postLi {
+    border-radius: 8px;
+}
+
+.aboutSocialBtn {
+    width: 22px;
+    margin-right: 5px;
 }

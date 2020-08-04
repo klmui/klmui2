@@ -8,11 +8,11 @@ comments: false
 
 ### Introduction
 
-Hi there! My name is Kenny and I am currently a junior at The Univeristy of Wisconsin-Madison majoring in CS with certificates in both leadership and entrepreneurship. My intentions also include earning a degree in data science (B.S.), and studying abroad at the National University of Singapore next Spring! My hobbies include late-night coding sessions with friends, giving back to my community, running, and traveling! If you want to work on any projects together, feel free to shoot me an email! I will try to respond within 24 hours.
+Hi there 👋! My name is Kenny and I am currently a junior at The Univeristy of Wisconsin-Madison majoring in CS with certificates in both leadership and entrepreneurship. My intentions also include earning a degree in data science (B.S.), and studying abroad in the near future! My hobbies include late-night coding sessions with friends, giving back to my community, running, and traveling! I love to meet new people, so feel free to shoot me an email! 
 
 ### More About Me
 
-My passion for software development sparked after I competed in a hackathon for high school students. I believe my desire to learn and push the boundaries helped my team earn a top spot. Since then, my mission has been to explore the ways computer science and software development can be applied to various projects that advance our society. As I continue to expand my knowledge in CS, I am excited by the limitless possibilities for innovation. Currently, my top skills are in Java, Python, and web development. 
+My passion for software development sparked after I competed in a hackathon for high school students. I believe my desire to learn and push the boundaries helped my team earn a top spot. Since then, my mission has been to explore the ways computer science and software development can be applied to various projects that advance our society. As I continue to expand my knowledge in CS, I am excited by the limitless possibilities for innovation. Currently, my top skills are in web development, Java, JavaScript, and Python. 
 
 ### Coding Technologies I am Proficient or Familiar With
 
@@ -100,6 +100,7 @@ My passion for software development sparked after I competed in a hackathon for 
 ### CS Courses I Have Taken/Taking at UW-Madison
 - CS 400 (Data Structures + Advanced Java)
 - CS 577 (Introduction to Algorithms)
+- CS 564 (Database Management Systems and Implementation)
 - CS 407 (Foundations of Mobile Systems and Applications + Android Studio)
 - CS 576 (Introduction to Bioinformatics + Python)
 - CS 354 (Machine Organization + C)
@@ -107,8 +108,23 @@ My passion for software development sparked after I competed in a hackathon for 
 - CS 252 (Introduction to Computer Engineering)
 - CS 502 (Computer Science Education)
 - CS 402 (Service Learning CS Education)
-- CS 564 (Database Management Systems and Implementation)
  
 ### Contact me
+I love to meet new people! Feel free to email me at any time!
 
+[<img align="left" alt="klmui.com" width="22px" class="aboutSocialBtn" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="YouTube" width="22px" class="aboutSocialBtn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Facebook" width="22px" class="aboutSocialBtn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="LinkedIn" width="22px" class="aboutSocialBtn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" class="aboutSocialBtn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [klmui@wisc.edu](mailto:klmui@wisc.edu)
+
+### 📕 Latest Blog Posts and Projects
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+[website]: https://klmui.com
+[facebook]: https://www.facebook.com/kenneth.mui.94/
+[youtube]: https://www.youtube.com/channel/UCMluAYnUm7rCkzN8czsGX4A?view_as=subscriber
+[instagram]: https://www.instagram.com/kenny_mui/
+[linkedin]: https://www.linkedin.com/in/kenneth-mui/
