@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Got a 10-15 Minute Break? - Your Coding Break 1
+title: Got a 10-15 Minute Break? - Coding Break 1
 date: 2020-3-17
 comments: true
 excerpt: 'Your Coding Break is a short post where I share funny content related (or not) to CS. I hope you find it entertaining!'

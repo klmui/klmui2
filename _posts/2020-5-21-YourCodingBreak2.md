@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Got a 10-15 Minute Break? - Your Coding Break 2
+title: Got a 10-15 Minute Break? - Coding Break 2
 date: 2020-5-21
 comments: true
 excerpt: Your Coding Break is back! Last time, I featured the famous tech YouTuber named Joma Tech. This time, I will be featuring Dani - game developer, Mark Rober - engineer,  and some programming memes! Enjoy!
