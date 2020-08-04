@@ -11,7 +11,7 @@ it!
 Hi there 👋! My name is Kenny and I am currently a junior at The Univeristy of Wisconsin-Madison majoring in CS with
 certificates in both leadership and entrepreneurship. My intentions also include earning a degree in data science
 (B.S.), and studying abroad in the near future! My hobbies include late-night coding sessions with friends, giving back
-to my community, running, and traveling! I love to meet new people, so feel free to shoot me an email at any time!
+to my community, running, filming/editing videos, and traveling! I love to meet new people, so feel free to shoot me an email at any time!
 
 ### Connect with me:
 [<img align="left" alt="klmui.com" width="22px" class="aboutSocialBtn"
@@ -34,7 +34,7 @@ My passion for software development sparked after I competed in a hackathon for 
 desire to learn and push the boundaries helped my team earn a top spot. Since then, my mission has been to explore the
 ways computer science and software development can be applied to various projects that advance our society. As I
 continue to expand my knowledge in CS, I am excited by the limitless possibilities for innovation. Currently, my top
-skills are in web development, Java, JavaScript, and Python.
+skills are in web development, Java, JavaScript, and Python. I'm also a computer science tutor at UW-Madison as well as a web development intern at Forward Health Group.
 
 ---
 
