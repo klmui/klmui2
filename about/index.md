@@ -14,16 +14,16 @@ certificates in both leadership and entrepreneurship. My intentions also include
 to my community, running, and traveling! I love to meet new people, so feel free to shoot me an email at any time!
 
 ### Connect with me:
-[<img align="left" alt="klmui.com" width="22px" class="aboutSocialBtn"
-    src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="YouTube" width="22px" class="aboutSocialBtn"
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Facebook" width="22px" class="aboutSocialBtn"
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="LinkedIn" width="22px" class="aboutSocialBtn"
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" class="aboutSocialBtn"
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<img align="left" alt="klmui.com" width="22px" class="aboutSocialBtn" href="https://klmui.com"
+    src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+<img align="left" alt="YouTube" width="22px" class="aboutSocialBtn" href="https://www.youtube.com/channel/UCMluAYnUm7rCkzN8czsGX4A?view_as=subscriber"
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+<img align="left" alt="Facebook" width="22px" class="aboutSocialBtn" href="https://www.facebook.com/kenneth.mui.94/"
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<img align="left" alt="LinkedIn" width="22px" class="aboutSocialBtn" href="https://www.linkedin.com/in/kenneth-mui/"
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="Instagram" width="22px" class="aboutSocialBtn" href="https://www.instagram.com/kenny_mui/"
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 [klmui@wisc.edu](mailto:klmui@wisc.edu)
 
 
@@ -178,8 +178,3 @@ skills are in web development, Java, JavaScript, and Python.
 <img align="left" alt="klmui's Github Stats"
     src="https://github-readme-stats.vercel.app/api?username=klmui&show_icons=true&hide_border=true&count_private=true&theme=radical" />
 
-[website]: https://klmui.com
-[facebook]: https://www.facebook.com/kenneth.mui.94/
-[youtube]: https://www.youtube.com/channel/UCMluAYnUm7rCkzN8czsGX4A?view_as=subscriber
-[instagram]: https://www.instagram.com/kenny_mui/
-[linkedin]: https://www.linkedin.com/in/kenneth-mui/
