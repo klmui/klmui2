@@ -36,6 +36,7 @@ ways computer science and software development can be applied to various project
 continue to expand my knowledge in CS, I am excited by the limitless possibilities for innovation. Currently, my top
 skills are in web development, Java, JavaScript, and Python. I'm also a computer science tutor at UW-Madison as well as a web development intern at Forward Health Group.
 
+I bring a professional, positive energy to the workplace and love seeing my colleges grow and succeed as much as I enjoy seeing myself succeed. I hope to connect with you soon!
 
 Clifton Strengths Finder:
 Individualization | Achiever | Significance | Responsibility | Learner
