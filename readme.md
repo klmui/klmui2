@@ -36,7 +36,9 @@ ways computer science and software development can be applied to various project
 continue to expand my knowledge in CS, I am excited by the limitless possibilities for innovation. Currently, my top
 skills are in web development, Java, JavaScript, and Python. I'm also a computer science tutor at UW-Madison as well as a web development intern at Forward Health Group.
 
-I bring a professional, positive energy to the workplace and love seeing my colleges grow and succeed as much as I enjoy seeing myself succeed. I hope to connect with you soon!
+
+I bring a professional, positive energy to the workplace and love seeing my colleagues grow and succeed as much as I enjoy seeing myself succeed. I hope to connect with you soon!
+
 
 Clifton Strengths Finder:
 Individualization | Achiever | Significance | Responsibility | Learner
@@ -160,12 +162,15 @@ Individualization | Achiever | Significance | Responsibility | Learner
 
 ### CS Courses I Have Taken/Taking at UW-Madison
 
-- CS 400 (Data Structures + Advanced Java)
 - CS 577 (Introduction to Algorithms)
-- CS 564 (Database Management Systems and Implementation)
+- CS 639 (Building UIs + React/React Native)
+- CS 564 (Database Management Systems and Implementation + SQL)
+- CS 540 (Intro to Artificial Intelligence)
+- CS 400 (Data Structures + Advanced Java)
 - CS 407 (Foundations of Mobile Systems and Applications + Android Studio)
 - CS 576 (Introduction to Bioinformatics + Python)
 - CS 354 (Machine Organization + C)
+- CS 220 (Data Programming I)
 - CS 240 (Discrete Math)
 - CS 252 (Introduction to Computer Engineering)
 - CS 502 (Computer Science Education)
