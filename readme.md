@@ -179,7 +179,7 @@ Individualization | Achiever | Significance | Responsibility | Learner
 ---
 
 <img align="left" alt="klmui's Github Stats"
-    src="https://github-readme-stats.vercel.app/api?username=klmui&show_icons=true&hide_border=true&count_private=true&theme=radical" />
+    src="https://github-readme-stats-gold.vercel.app/api?username=klmui&show_icons=true&hide_border=true&count_private=true&theme=radical" />
 
 [website]: https://klmui.com
 [facebook]: https://www.facebook.com/kenneth.mui.94/
